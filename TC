@@ -1,2 +1,13 @@
-# Constant Time
+Constant Time - O(1)
+
+It does't depand upon the input size instead it performs the operation in the cosntant time for each input. 
+
+eg - To check weather the number is odd or even.
+   - Arithmetic operation 
+   - Search Kth element in sorted array
+NOTE - No loop is performed direct operation is performed.
+
+
+Linear Time - O(N)
+
 
